@@ -1,0 +1,24 @@
+.ty{
+    height: 650px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+}
+.ty img{
+    margin-left: 1090px;
+    margin-top: -263px;
+    position: relative;
+}
+
+.ty1 img{
+    margin-top: 100px;
+    margin-left: 10px;
+    position: absolute;
+}
+.ty2{
+    height: 28px;
+    width: 100%;
+    background-color: rgba(242, 77, 44, 0.937);
+    position: fixed;
+    margin-top: 650px;
+}
